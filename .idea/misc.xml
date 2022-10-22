@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android projects/Notepad+/app/src/main/res/drawable/ic_add_24.xml" value="0.202" />
+        <entry key="..\:/Android/Android projects/Notepad+/app/src/main/res/drawable/ic_share_24.xml" value="0.1205" />
+        <entry key="..\:/Android/Android projects/Notepad+/app/src/main/res/layout/activity_add_note.xml" value="0.25" />
+        <entry key="..\:/Android/Android projects/Notepad+/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android/Android projects/Notepad+/app/src/main/res/layout/note_row.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
