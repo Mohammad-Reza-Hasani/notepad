@@ -20,7 +20,7 @@ class AddNoteActivity : AppCompatActivity() {
     lateinit var noteDBAdapter: NoteDBAdapter
 
     private lateinit var date: String
-    lateinit var time: String
+    private lateinit var time: String
 
 
     @SuppressLint("SetTextI18n")
