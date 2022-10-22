@@ -90,7 +90,7 @@ class AddNoteActivity : AppCompatActivity() {
         })
 
 
-        binding.btnDateAddNote.setOnClickListener(View.OnClickListener {
+        binding.btnDateAddNote.setOnClickListener {
 
             val year = calendar[Calendar.YEAR]
             val month = calendar[Calendar.MONTH]
@@ -106,7 +106,7 @@ class AddNoteActivity : AppCompatActivity() {
             datePickerDialog.show()
 
 
-        })
+        }
 
 
         binding.btnTimeAddNote.setOnClickListener(View.OnClickListener {
